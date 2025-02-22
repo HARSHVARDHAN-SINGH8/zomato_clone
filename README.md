@@ -26,7 +26,7 @@ This is only for submission purpose because it is getting late and I have to sub
    npm run dev
    ```
 
-3. **Open the application in your browser:**
+2. **Open the application in your browser:**
 
    Navigate to [http://localhost:5173](http://localhost:3000) to explore the Zomato Clone or the url pop-ups in your terminal as Local
 
